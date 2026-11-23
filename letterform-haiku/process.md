@@ -69,19 +69,19 @@ Working with food meant working with time. The peel kept drying and changing, so
 
 ### First draft
 
-Lorem ipsum dolor  
-sit amet consectetur sed  
-adipiscing elit
+My fingers sank into the mandarin  
+then the winter breeze blew  
+I love this time, Christmas and all
 
 ### What I changed
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+My first draft was too long for the 5–7–5 pattern, so I shortened the first line to focus only on my fingers sinking into the peel. I added "cold" to make the winter feeling stronger. I also rewrote the last line: instead of just saying that I love this time of year, it now says that I can feel Christmas.
 
 ### Final version
 
-Lorem ipsum dolor  
-sit amet consectetur sed  
-adipiscing elit
+Fingers sink in peel  
+then a cold winter breeze blew  
+Xmas I can feel
 
 [See the final haiku with the letterform](./)
 
@@ -100,4 +100,4 @@ adipiscing elit
 
 ---
 
-Letterform and haiku: Sans AI. Process text: AI-generated from my own notes and edited by me.
+Letterform: Sans AI. Haiku: AI-assisted (my own Slovak draft, translated and shortened with AI). Process text: AI-generated from my own notes and edited by me.

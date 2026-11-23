@@ -6,9 +6,9 @@
 
 ## Haiku
 
-Lorem ipsum dolor  
-sit amet consectetur sed  
-adipiscing elit
+Fingers sink in peel  
+then a cold winter breeze blew  
+Xmas I can feel
 
 ## Process
 
@@ -16,4 +16,4 @@ adipiscing elit
 
 ---
 
-Letterform and haiku: Sans AI. Page structure and alt text: AI-assisted.
+Letterform: Sans AI. Haiku: AI-assisted (my own Slovak draft, translated and shortened with AI). Page structure and alt text: AI-assisted.
