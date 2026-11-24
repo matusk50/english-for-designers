@@ -41,12 +41,12 @@ I cut off a strip from the edge and trimmed the peel into a small rectangle, so 
 ## 5. Iterations
 
 1. **First version:** I cut the outline of the M into the rectangle, but the inner pieces were still in place, so the letter was still part of the peel.
-2. **Second version:** I took out the small triangles between the strokes. The M came apart into separate pieces, with thin and uneven legs.
-3. **Third version:** I put the strips back together into a new, more angular M with sharper corners.
+2. **Second version:** I cut out the small triangles between the strokes, so the shape of the M started to show.
+3. **Third version:** I kept cutting and trimming the edges until the M had cleaner, sharper corners.
 
 ![First version: an M being cut out of the rectangle of peel.](img/iteration-01.jpg){: width="260"}
-![Second version: the strokes of the M separated on the board, with leftover pieces around them.](img/iteration-02.jpg){: width="260"}
-![Third version: the M arranged from strips of peel among the scraps.](img/iteration-03.jpg){: width="260"}
+![Second version: the M with the small triangles between its strokes cut out, with leftover pieces around it.](img/iteration-02.jpg){: width="260"}
+![Third version: the trimmed M with sharper corners among the scraps of peel.](img/iteration-03.jpg){: width="260"}
 
 ## 6. The final letterform
 
