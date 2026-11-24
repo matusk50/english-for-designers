@@ -57,6 +57,7 @@ For the final version I moved the letter from the cutting board onto a clean whi
 - **Material:** fresh mandarin peel
 - **Tools:** kitchen knife, cutting board
 - **Technique:** peeling, flattening, scratching the outline, cutting
+- **Size:** about 5 cm tall
 
 ## What I learned
 
