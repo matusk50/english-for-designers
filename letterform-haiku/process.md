@@ -40,9 +40,9 @@ I cut off a strip from the edge and trimmed the peel into a small rectangle, so 
 
 ## 5. Iterations
 
-1. **First version:** I cut the M straight out of the rectangle. Notes on what happened.
-2. **Second version:** I separated the strokes from the leftover peel. Notes on what happened.
-3. **Third version:** I arranged the strokes again and adjusted their angles. Notes on what happened.
+1. **First version:** I cut the outline of the M into the rectangle, but the inner pieces were still in place, so the letter was still part of the peel.
+2. **Second version:** I took out the small triangles between the strokes. The M came apart into separate pieces, with thin and uneven legs.
+3. **Third version:** I put the strips back together into a new, more angular M with sharper corners.
 
 ![First version: an M being cut out of the rectangle of peel.](img/iteration-01.jpg){: width="260"}
 ![Second version: the strokes of the M separated on the board, with leftover pieces around them.](img/iteration-02.jpg){: width="260"}
@@ -93,7 +93,8 @@ Xmas I can feel
 
 ## References
 
-- Paul Rand, "Design and the Play Instinct": play and experimentation as part of the design process.
+- [Paul Rand: Design and the Play Instinct (1965)](https://paulrand.design/writing/articles/1965-design-and-the-play-instinct.html): play and clear limits as part of the design process. Working only with a knife and mandarin peel was my limit.
+- [Paul Rand on the Play Instinct, interview by Steven Heller](https://www.paulrand.design/life/interviews/1998-Paul-Rand-on-the-Play-Instinct.html): Rand explains play as a game with rules.
 
 [Back to Letterform and Haiku](./)
 
