@@ -1,71 +1,70 @@
 # Process: A Letter Cut from Mandarin Peel
 
-Every winter my kitchen fills up with mandarins. I love their taste, their smell and that strong orange colour, so I decided to make my letter out of their peel.
+Every winter my kitchen fills up with mandarins. I love their taste, their smell and that strong orange colour, so I decided to make my letter out of their peel, using only a knife and a cutting board.
 
-![The final letter M cut from mandarin peel.](img/letterform-final.jpg)
+![The final letter M cut from mandarin peel, lying on a plain white surface.](img/letterform-final.jpg)
 
 ## Why mandarins?
 
-For me, mandarins are the taste and smell of winter. Instead of choosing a material only for how it looks, I wanted one that I enjoy with all my senses. The peel is soft, a little oily, and very orange, and it changes as it dries, so the letter is never quite finished.
+For me, mandarins are the taste and smell of winter. Instead of choosing a material only for how it looks, I wanted one that I enjoy with all my senses. The peel is soft, a little oily and very orange, with a dimpled texture that stays visible even in a small letter.
 
 ## Why the letter M?
 
-My name, Matúš, starts with M, so it felt natural to make a letter that is personal to me. Its strong vertical strokes and the V in the middle are also simple enough to cut from small pieces of peel.
+My name, Matúš, starts with M, so it felt natural to make a letter that is personal to me. Its strong strokes and the V in the middle are also simple enough to cut from a small piece of peel.
 
-## 1. Sketches on paper
+## 1. Peeling
 
-I started by drawing the letter many times on paper to find a shape simple enough to cut from small pieces of peel. Thin details and sharp corners were hard to keep, so I chose wider strokes and rounder joints.
+I started with a whole peel. It came off the fruit in one curved, twisted piece, which showed me straight away that the material does not want to be flat.
 
-![Pencil sketches of the letter M in different widths and proportions.](img/sketch-01.jpg)
+![A curved, twisted mandarin peel on a bamboo cutting board next to a kitchen knife.](img/peel-01-whole.jpg)
 
-## 2. Peeling and testing the material
+## 2. Flattening the peel
 
-I peeled several mandarins and tried different ways: one long spiral, larger pieces, and small pieces. I tested how the peel bends, how easily it tears and how it behaves when I press it flat.
+To get a surface I could cut, I pressed the peel flat with my fingers and cut away the most curved parts.
 
-![Mandarin peels laid out on the table: a long spiral, large pieces and small scraps.](img/peel-tests.jpg)
+![A hand pressing a piece of mandarin peel flat on the cutting board.](img/peel-02-pressing.jpg)
+![Two pieces of peel on the board: one still curved, one pressed flat.](img/peel-03-flattened.jpg)
 
-## 3. Cutting the strokes
+## 3. Drawing into the peel
 
-I flattened the peel and cut the strokes of the letter with a knife and scissors, following a paper template. The outer skin is quite firm, but the white inner layer tears easily, so I had to cut slowly.
+Instead of sketching on paper, I drew the shape of the M directly into the peel by lightly scratching the skin with the tip of the knife. These thin lines became my guide for cutting.
 
-![Strokes of the letter cut from mandarin peel next to a paper template and a knife.](img/cutting.jpg)
+![A flattened piece of mandarin peel with thin knife lines scratched into the skin, showing the outline of an M.](img/sketch-in-peel.jpg)
 
-## 4. Iterations
+## 4. Cutting the base
 
-Each version taught me something about the material.
+I cut off a strip from the edge and trimmed the peel into a small rectangle, so I had a clean block to cut the letter from.
 
-1. First version: description of what happened.
-2. Second version: what you changed.
-3. Third version: what you changed.
+![A strip being cut off the flattened peel.](img/cutting-01-strip.jpg)
+![A small rectangle of mandarin peel ready for cutting the letter.](img/cutting-02-rectangle.jpg)
 
-![First version of the letter made from mandarin peel.](img/iteration-01.jpg)
-![Second version with adjusted stroke widths.](img/iteration-02.jpg)
-![Third version, closer to the final shape.](img/iteration-03.jpg)
+## 5. Iterations
 
-## 5. Drying and the changing letter
+1. **First version:** I cut the M straight out of the rectangle. Notes on what happened.
+2. **Second version:** I separated the strokes from the leftover peel. Notes on what happened.
+3. **Third version:** I arranged the strokes again and adjusted their angles. Notes on what happened.
 
-After a few hours the peel started to dry, shrink and curl at the edges. The colour got deeper and the letter slowly changed shape. I photographed it at different stages to keep a record of how the material lives on its own.
-
-![The mandarin peel letter after drying, with curled edges and a darker orange colour.](img/drying.jpg)
+![First version: an M being cut out of the rectangle of peel.](img/iteration-01.jpg)
+![Second version: the strokes of the M separated on the board, with leftover pieces around them.](img/iteration-02.jpg)
+![Third version: the M arranged from strips of peel among the scraps.](img/iteration-03.jpg)
 
 ## 6. The final letterform
 
-![The final letter M cut from mandarin peel, photographed from above on a plain background.](img/letterform-final.jpg)
+For the final version I moved the letter from the cutting board onto a clean white surface, so only the orange shape and the texture of the peel stay visible.
+
+![The final letter M cut from mandarin peel, photographed from above on a plain white surface.](img/letterform-final.jpg)
 
 - **Material:** fresh mandarin peel
-- **Tools:** knife, scissors, paper template
-- **Technique:** peeling, flattening, cutting, arranging
-- **Size:** about X cm
+- **Tools:** kitchen knife, cutting board
+- **Technique:** peeling, flattening, scratching the outline, cutting
 
 ## What I learned
 
-Working with food meant working with time. The peel kept drying and changing, so I had to make decisions quickly and photograph every step. I also learned that a material chosen for its smell and taste can shape a letter as much as a pen or a computer can.
+The peel was not an easy material. It curves, tears and is different in every place, so I could not plan everything in advance. I had to react to the material, and the letter changed with every try. I also learned that a material chosen for its smell and taste can shape a letter as much as a pen or a computer can.
 
 ---
 
 ## Haiku drafts
-
-![Notebook page with handwritten haiku drafts.](img/haiku-notes.jpg)
 
 ### First draft
 
@@ -87,17 +86,16 @@ Xmas I can feel
 
 ## Alternate alt text
 
-- **Detail:** A letter M made of mandarin peel, its dimpled orange skin and pale white inner layer visible along the cut edges.
-- **Mood:** A small, bright orange letter that looks warm and playful, like a winter snack turned into type.
-- **Material:** A letter shaped from soft, slightly oily citrus peel that curls and darkens as it dries.
+- **Detail:** A letter M made of mandarin peel, its dimpled orange skin and pale edges visible along the cuts.
+- **Mood:** A small, bright orange letter on white, warm and playful, like a winter snack turned into type.
+- **Material:** A letter shaped from soft, slightly oily citrus peel, cut by hand with a kitchen knife.
 
 ## References
 
 - Paul Rand, "Design and the Play Instinct": play and experimentation as part of the design process.
-- Reference 2: short note.
 
 [Back to Letterform and Haiku](./)
 
 ---
 
-Letterform: Sans AI. Haiku: AI-assisted (my own Slovak draft, translated and shortened with AI). Process text: AI-generated from my own notes and edited by me.
+Letterform: Sans AI. Haiku: AI-assisted (my own Slovak draft, translated and shortened with AI). Process text: AI-generated from my own notes and photos, edited by me.

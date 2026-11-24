@@ -2,7 +2,7 @@
 
 ## Letterform
 
-![The letter M cut from fresh mandarin peel, bright orange with a dimpled outer skin and a pale inner side, photographed on a plain background.](img/letterform-final.jpg)
+![The letter M cut from mandarin peel in one piece, bright orange with a dimpled skin, lying on a plain white surface.](img/letterform-final.jpg)
 
 ## Haiku
 
