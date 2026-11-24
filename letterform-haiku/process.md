@@ -2,7 +2,7 @@
 
 Every winter my kitchen fills up with mandarins. I love their taste, their smell and that strong orange colour, so I decided to make my letter out of their peel, using only a knife and a cutting board.
 
-![The final letter M cut from mandarin peel, lying on a plain white surface.](img/letterform-final.jpg)
+![The final letter M cut from mandarin peel, lying on a plain white surface.](img/letterform-final.jpg){: width="320"}
 
 ## Why mandarins?
 
@@ -16,27 +16,27 @@ My name, Matúš, starts with M, so it felt natural to make a letter that is per
 
 I started with a whole peel. It came off the fruit in one curved, twisted piece, which showed me straight away that the material does not want to be flat.
 
-![A curved, twisted mandarin peel on a bamboo cutting board next to a kitchen knife.](img/peel-01-whole.jpg)
+![A curved, twisted mandarin peel on a bamboo cutting board next to a kitchen knife.](img/peel-01-whole.jpg){: width="260"}
 
 ## 2. Flattening the peel
 
 To get a surface I could cut, I pressed the peel flat with my fingers and cut away the most curved parts.
 
-![A hand pressing a piece of mandarin peel flat on the cutting board.](img/peel-02-pressing.jpg)
-![Two pieces of peel on the board: one still curved, one pressed flat.](img/peel-03-flattened.jpg)
+![A hand pressing a piece of mandarin peel flat on the cutting board.](img/peel-02-pressing.jpg){: width="260"}
+![Two pieces of peel on the board: one still curved, one pressed flat.](img/peel-03-flattened.jpg){: width="260"}
 
 ## 3. Drawing into the peel
 
 Instead of sketching on paper, I drew the shape of the M directly into the peel by lightly scratching the skin with the tip of the knife. These thin lines became my guide for cutting.
 
-![A flattened piece of mandarin peel with thin knife lines scratched into the skin, showing the outline of an M.](img/sketch-in-peel.jpg)
+![A flattened piece of mandarin peel with thin knife lines scratched into the skin, showing the outline of an M.](img/sketch-in-peel.jpg){: width="260"}
 
 ## 4. Cutting the base
 
 I cut off a strip from the edge and trimmed the peel into a small rectangle, so I had a clean block to cut the letter from.
 
-![A strip being cut off the flattened peel.](img/cutting-01-strip.jpg)
-![A small rectangle of mandarin peel ready for cutting the letter.](img/cutting-02-rectangle.jpg)
+![A strip being cut off the flattened peel.](img/cutting-01-strip.jpg){: width="260"}
+![A small rectangle of mandarin peel ready for cutting the letter.](img/cutting-02-rectangle.jpg){: width="260"}
 
 ## 5. Iterations
 
@@ -44,15 +44,15 @@ I cut off a strip from the edge and trimmed the peel into a small rectangle, so 
 2. **Second version:** I separated the strokes from the leftover peel. Notes on what happened.
 3. **Third version:** I arranged the strokes again and adjusted their angles. Notes on what happened.
 
-![First version: an M being cut out of the rectangle of peel.](img/iteration-01.jpg)
-![Second version: the strokes of the M separated on the board, with leftover pieces around them.](img/iteration-02.jpg)
-![Third version: the M arranged from strips of peel among the scraps.](img/iteration-03.jpg)
+![First version: an M being cut out of the rectangle of peel.](img/iteration-01.jpg){: width="260"}
+![Second version: the strokes of the M separated on the board, with leftover pieces around them.](img/iteration-02.jpg){: width="260"}
+![Third version: the M arranged from strips of peel among the scraps.](img/iteration-03.jpg){: width="260"}
 
 ## 6. The final letterform
 
 For the final version I moved the letter from the cutting board onto a clean white surface, so only the orange shape and the texture of the peel stay visible.
 
-![The final letter M cut from mandarin peel, photographed from above on a plain white surface.](img/letterform-final.jpg)
+![The final letter M cut from mandarin peel, photographed from above on a plain white surface.](img/letterform-final.jpg){: width="320"}
 
 - **Material:** fresh mandarin peel
 - **Tools:** kitchen knife, cutting board
