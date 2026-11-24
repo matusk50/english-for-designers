@@ -10,7 +10,7 @@ For me, mandarins are the taste and smell of winter. Instead of choosing a mater
 
 ## Why the letter M?
 
-My name, Matúš, starts with M, so it felt natural to make a letter that is personal to me. Its strong strokes and the V in the middle are also simple enough to cut from a small piece of peel.
+M is for Matúš, and also for *mandarínka*, the Slovak word for mandarin. So the letter and the material share the same first letter. Its strong strokes and the V in the middle are also simple enough to cut from a small piece of peel.
 
 ## 1. Peeling
 

@@ -4,6 +4,8 @@
 
 ![The letter M cut from mandarin peel in one piece, bright orange with a dimpled skin, lying on a plain white surface.](img/letterform-final.jpg){: width="320"}
 
+*M for Matúš, and for mandarínka (Slovak for mandarin).*
+
 ## Haiku
 
 Fingers sink in peel  
