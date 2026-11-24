@@ -18,4 +18,4 @@ Xmas I can feel
 
 ---
 
-Letterform: Sans AI. Haiku: AI-assisted (my own Slovak draft, translated and shortened with AI). Page structure and alt text: AI-assisted.
+AI-assisted: the letterform was made by hand without AI. AI helped with the English texts and the website setup.
